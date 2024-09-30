@@ -84,7 +84,7 @@ a {
     border-radius: 5px; /* Coins arrondis */
     background-color: #1b1b2f; /* Fond sombre pour les liens */
     transition: background-color 0.3s ease, transform 0.2s; /* Transition pour le survol */
-    margin: 10px 0; /* Ajout d'espace entre les liens */
+    margin: 20px 0; /* Ajout d'espace entre les liens */
 }
 
 a:hover {
